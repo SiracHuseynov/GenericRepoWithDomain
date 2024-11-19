@@ -1,0 +1,17 @@
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractice.DataAccessLayer\bin\Debug\net8.0\GenericRepoPractice.DataAccessLayer.deps.json
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractice.DataAccessLayer\bin\Debug\net8.0\GenericRepoPractice.DataAccessLayer.runtimeconfig.json
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractice.DataAccessLayer\bin\Debug\net8.0\GenericRepoPractice.DataAccessLayer.dll
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractice.DataAccessLayer\bin\Debug\net8.0\GenericRepoPractice.DataAccessLayer.pdb
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractice.DataAccessLayer\obj\Debug\net8.0\GenericRepoPractice.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractice.DataAccessLayer\obj\Debug\net8.0\GenericRepoPractice.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractice.DataAccessLayer\obj\Debug\net8.0\GenericRepoPractice.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractice.DataAccessLayer\obj\Debug\net8.0\GenericRepoPractice.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractice.DataAccessLayer\obj\Debug\net8.0\GenericRepoPractice.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractice.DataAccessLayer\obj\Debug\net8.0\GenericRepoPractice.DataAccessLayer.dll
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractice.DataAccessLayer\obj\Debug\net8.0\refint\GenericRepoPractice.DataAccessLayer.dll
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractice.DataAccessLayer\obj\Debug\net8.0\GenericRepoPractice.DataAccessLayer.pdb
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractice.DataAccessLayer\obj\Debug\net8.0\GenericRepoPractice.DataAccessLayer.genruntimeconfig.cache
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractice.DataAccessLayer\obj\Debug\net8.0\ref\GenericRepoPractice.DataAccessLayer.dll
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractice.DataAccessLayer\bin\Debug\net8.0\GenericRepoPractise.Domain.dll
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractice.DataAccessLayer\bin\Debug\net8.0\GenericRepoPractise.Domain.pdb
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractice.DataAccessLayer\obj\Debug\net8.0\GenericR.4D369CF4.Up2Date

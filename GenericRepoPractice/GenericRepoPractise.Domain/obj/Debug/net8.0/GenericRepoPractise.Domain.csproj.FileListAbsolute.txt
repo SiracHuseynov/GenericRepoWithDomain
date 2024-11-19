@@ -1,0 +1,11 @@
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractise.Domain\bin\Debug\net8.0\GenericRepoPractise.Domain.deps.json
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractise.Domain\bin\Debug\net8.0\GenericRepoPractise.Domain.dll
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractise.Domain\bin\Debug\net8.0\GenericRepoPractise.Domain.pdb
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractise.Domain\obj\Debug\net8.0\GenericRepoPractise.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractise.Domain\obj\Debug\net8.0\GenericRepoPractise.Domain.AssemblyInfoInputs.cache
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractise.Domain\obj\Debug\net8.0\GenericRepoPractise.Domain.AssemblyInfo.cs
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractise.Domain\obj\Debug\net8.0\GenericRepoPractise.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractise.Domain\obj\Debug\net8.0\GenericRepoPractise.Domain.dll
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractise.Domain\obj\Debug\net8.0\refint\GenericRepoPractise.Domain.dll
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractise.Domain\obj\Debug\net8.0\GenericRepoPractise.Domain.pdb
+C:\Users\Sirac Huseynov\Desktop\LearnApi\GenericRepoPractice\GenericRepoPractise.Domain\obj\Debug\net8.0\ref\GenericRepoPractise.Domain.dll
